@@ -27,7 +27,7 @@ Dockerfile included so you can containerize and run the application easily.
 
 API Endpoints : 
 
-  Endpoint                Method   Description                         
+| Endpoint              | Method | Description                         |
 | --------------------- | ------ | ----------------------------------- |
 | `/conversations`      | POST   | Send message to AI and get response |
 | `/evaluate/coherence` | POST   | Check quality/coherence of AI text  |
